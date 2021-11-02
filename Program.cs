@@ -10,7 +10,7 @@ namespace ConsoleApp1
             Console.WriteLine("change in github");
             Console.ReadLine();
             Console.WriteLine("Hiii!  there this is alen");
-            Console.WriteLine("Hiii!  new branch")
+            Console.WriteLine("Hiii!  new branch");
             Console.WriteLine("Hiii!  there");
         }
     }
